@@ -2,18 +2,18 @@
 
 ## General Purpose
 
-- [PackageResourceViewer]()
-- [SublimeLinter]()
-- [ApacheConf.tmLanguage]()
-- [PlainTasks]()
-- [WakaTime]()
-- [Http Requester]()
-- [SublimeHighlight]()
+- [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer)
+- [SublimeLinter](http://www.sublimelinter.com/en/latest/)
+- [ApacheConf.tmLanguage](https://github.com/colinta/ApacheConf.tmLanguage)
+- [PlainTasks](https://github.com/aziz/PlainTasks)
+- [WakaTime](https://wakatime.com/help)
+- [Http Requester](https://github.com/braindamageinc/SublimeHttpRequester)
+- [SublimeHighlight](https://github.com/n1k0/SublimeHighlight)
 
 ### File Management
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 - [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
-- [AutoFileName]()
+- [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 - [EditorConfig]()
 - [TrailingSpaces]()
 - [Trimmer]()
