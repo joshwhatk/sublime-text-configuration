@@ -11,8 +11,8 @@
 - [SublimeHighlight]()
 
 ### File Management
-- SideBarEnhancements
-- AdvancedNewFile
+- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+- [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 - [AutoFileName]()
 - [EditorConfig]()
 - [TrailingSpaces]()
