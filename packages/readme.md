@@ -9,6 +9,8 @@
 - [WakaTime](https://wakatime.com/help)
 - [Http Requester](https://github.com/braindamageinc/SublimeHttpRequester)
 - [SublimeHighlight](https://github.com/n1k0/SublimeHighlight)
+- [BufferScroll]()
+- [TodoReview]()
 
 ### File Management
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
