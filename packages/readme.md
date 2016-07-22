@@ -31,16 +31,16 @@
 - [Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value)
 
 ### Window Manipulation
-- [Origami]()
-- [ZenTabs]()
+- [Origami](https://github.com/SublimeText/Origami)
+- [ZenTabs](https://github.com/travmik/ZenTabs)
 
 ## Git
-- [Gist]()
-- [GitGutter]()
+- [Gist](https://github.com/condemil/Gist)
+- [GitGutter](https://github.com/jisaacks/GitGutter)
 
 
 ## Markdown
-- [Markdown Preview]()
+- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 - [MarkdownEditing]()
 
 ## HTML
