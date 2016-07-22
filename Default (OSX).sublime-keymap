@@ -1,14 +1,6 @@
 [
-  { "keys": ["ctrl+shift+f"], "command": "reindent" , "args": {"single_line": false}},
-  { "keys": ["ctrl+shift+s"], "command": "save_all" },
-  { "keys": ["ctrl+shift+z"], "command": "sftp_download_file" },
-  { "keys": ["super+shift+alt+c"], "command": "find_use"},
   { "keys": ["super+v"], "command": "paste_and_indent" },
-  { "keys": ["ctrl+super+l"], "command": "angularjs_find" },
-  { "keys": ["super+ctrl+g"], "command": "gulp", "args": { "task_name": "default" } },
-  { "keys": ["super+ctrl+shift+g"], "command": "gulp", "args": { "task_name": "watch" } },
-  { "keys": ["super+ctrl+alt+g"], "command": "gulp_kill"},
-  { "keys": ["super+ctrl+alt+u"], "command": "simple_php_unit" },
+  { "keys": ["super+shift+alt+c"], "command": "find_use"},
   {
     "keys": ["alt+up"],
     "command": "run_macro_file",
