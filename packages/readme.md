@@ -14,8 +14,8 @@
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 - [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
-- [EditorConfig]()
-- [TrailingSpaces]()
+- [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
+- [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
 - [Trimmer]()
 - [Expand Tabs on Save]()
 
