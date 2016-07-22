@@ -9,8 +9,8 @@
 - [WakaTime](https://wakatime.com/help)
 - [Http Requester](https://github.com/braindamageinc/SublimeHttpRequester)
 - [SublimeHighlight](https://github.com/n1k0/SublimeHighlight)
-- [BufferScroll]()
-- [TodoReview]()
+- [BufferScroll](https://github.com/titoBouzout/BufferScroll)
+- [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
 
 ### File Management
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
@@ -18,19 +18,17 @@
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 - [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
 - [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
-- [Trimmer]()
-- [Expand Tabs on Save]()
+- [Trimmer](https://github.com/jonlabelle/Trimmer)
 
 ### Text Manipulation
-- [BracketHighlighter]()
-- [ChangeQuotes]()
-- [HTML-CSS-JS Prettify]()
-- [Pretty JSON]()
-- [Text Pastry]()
-- [Expand Selection to Quotes]()
-- [Alignment]()
-- [AlignTab]()
-- [Inc-Dec-Value]()
+- [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
+- [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes)
+- [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
+- [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
+- [Text Pastry](https://github.com/duydao/Text-Pastry)
+- [Expand Selection to Quotes](https://github.com/kek/sublime-expand-selection-to-quotes)
+- [AlignTab](https://github.com/randy3k/AlignTab)
+- [Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value)
 
 ### Window Manipulation
 - [Origami]()
@@ -38,7 +36,6 @@
 
 ## Git
 - [Gist]()
-- [Git]()
 - [GitGutter]()
 
 
