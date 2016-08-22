@@ -55,6 +55,7 @@
 - [ColorPicker]()
 
 ## JS
+- [Babel](https://github.com/babel/babel-sublime)
 - [jQuery]()
 
 ## PHP
