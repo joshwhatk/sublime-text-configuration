@@ -1,4 +1,4 @@
-# Eloquent ORM snippets 
+# Eloquent ORM snippets via [Jarek Tkaczyk](https://github.com/jarektkaczyk/sublime-snippets/tree/master/eloquent)
 
 https://laravel.com/docs/eloquent
 
