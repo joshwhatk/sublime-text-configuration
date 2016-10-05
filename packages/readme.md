@@ -3,7 +3,7 @@
 ## General Purpose
 
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer)
-- [SublimeLinter](http://www.sublimelinter.com/en/latest/)
+- [SublimeLinter](http://www.sublimelinter.com/en/latest/) ([config](/packages/SublimeLinter))
 - [ApacheConf.tmLanguage](https://github.com/colinta/ApacheConf.tmLanguage)
 - [PlainTasks](https://github.com/aziz/PlainTasks)
 - [WakaTime](https://wakatime.com/help)
@@ -17,7 +17,7 @@
 - [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 - [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
-- [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
+- [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) ([config](/packages/TrailingSpaces))
 - [Trimmer](https://github.com/jonlabelle/Trimmer)
 
 ### Text Manipulation
@@ -32,7 +32,7 @@
 
 ### Window Manipulation
 - [Origami](https://github.com/SublimeText/Origami)
-- [ZenTabs](https://github.com/travmik/ZenTabs) [(config)](/packages/ZenTabs)
+- [ZenTabs](https://github.com/travmik/ZenTabs) ([config](/packages/ZenTabs))
 
 ## Git
 - [Gist](https://github.com/condemil/Gist)
@@ -40,7 +40,7 @@
 
 
 ## Markdown
-- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) ([config](/packages/Markdown Preview))
 - [MarkdownEditing]()
 
 ## HTML
@@ -55,7 +55,7 @@
 - [ColorPicker]()
 
 ## JS
-- [Babel](https://github.com/babel/babel-sublime)
+- [Babel](https://github.com/babel/babel-sublime) ([config](/packages/Babel))
 - [jQuery]()
 
 ## PHP
