@@ -32,7 +32,7 @@
 
 ### Window Manipulation
 - [Origami](https://github.com/SublimeText/Origami)
-- [ZenTabs](https://github.com/travmik/ZenTabs)
+- [ZenTabs](https://github.com/travmik/ZenTabs) [(config)](/packages/ZenTabs)
 
 ## Git
 - [Gist](https://github.com/condemil/Gist)
