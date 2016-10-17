@@ -57,7 +57,7 @@
 ## CSS/SASS/LESS
 - Syntax Highlighting for Sass
 - LESS
-- Color Highlighter
+- [Color Highlighter](/packages/Color Highlighter)
 - ColorPicker
 
 ## JS
