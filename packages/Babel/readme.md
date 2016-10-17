@@ -1,4 +1,4 @@
-[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+[Home](https://github.com/joshwhatk/sublime-text-configuration) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
 
 # Babel Settings
 

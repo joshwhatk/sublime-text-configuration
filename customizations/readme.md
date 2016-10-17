@@ -1,4 +1,4 @@
-[Home](/) - Customizations - [Packages](/packages) - [Themes](/themes)
+[Home](https://github.com/joshwhatk/sublime-text-configuration) - Customizations - [Packages](/packages) - [Themes](/themes)
 
 # Customizations
 
