@@ -1,3 +1,5 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+
 # TrailingSpaces Settings
 
 [Github](https://github.com/SublimeText/TrailingSpaces)

@@ -1,3 +1,5 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+
 # Babel Settings
 
 [Github](https://github.com/babel/babel-sublime)

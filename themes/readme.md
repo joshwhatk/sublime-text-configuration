@@ -1,3 +1,6 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - Themes
+
+
 # Themes
 
 For development, I use `pastel (SL)` by [Dayle Rees](https://github.com/daylerees/colour-schemes), for Javscript I use the [Zeus theme](https://github.com/zaynali53/Zeus-Theme), and for Markdown, I use `MarkdownEditing`'s theme.

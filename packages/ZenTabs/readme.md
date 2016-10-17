@@ -1,3 +1,5 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+
 # Zen Tabs Settings
 
 [Github](https://github.com/travmik/ZenTabs)

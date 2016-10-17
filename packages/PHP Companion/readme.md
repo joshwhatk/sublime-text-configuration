@@ -1,3 +1,5 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+
 # PHP Companion Settings
 
 [Github](https://github.com/erichard/SublimePHPCompanion)

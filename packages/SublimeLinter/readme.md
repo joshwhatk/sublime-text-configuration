@@ -1,3 +1,5 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+
 # SublimeLinter Settings
 
 [Website](http://www.sublimelinter.com/en/latest/)

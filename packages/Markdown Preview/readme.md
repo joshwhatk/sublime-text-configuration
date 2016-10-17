@@ -1,3 +1,5 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+
 # Markdown Preview Settings
 
 [Github](https://github.com/revolunet/sublimetext-markdown-preview)
