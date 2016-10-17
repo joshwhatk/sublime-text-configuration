@@ -59,7 +59,7 @@
 - [jQuery]()
 
 ## PHP
-- [PHP Companion]()
+- [PHP Companion](/packages/PHP Companion)
 - [All Autocomplete]()
 - [CodeComplice]()
 - [DocBlockr]()
