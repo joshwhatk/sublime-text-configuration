@@ -1,5 +1,7 @@
 # Babel Settings
 
+[Github](https://github.com/babel/babel-sublime)
+
 This is a work in progress, but I currently use Babel for ES6 and TypeScript syntax highlighting.
 
 I also overwrite the default theme when working with Javascript, I use the [Zeus theme](https://github.com/zaynali53/Zeus-Theme).

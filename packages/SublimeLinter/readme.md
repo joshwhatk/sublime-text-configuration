@@ -1,5 +1,7 @@
 # SublimeLinter Settings
 
+[Website](http://www.sublimelinter.com/en/latest/)
+
 The settings for SublimeLinter get built automatically, but for each linter that is installed, there are specific steps to get up and running for each respective linter.
 
 ## Installed Linters

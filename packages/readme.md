@@ -3,7 +3,7 @@
 ## General Purpose
 
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer)
-- [SublimeLinter](http://www.sublimelinter.com/en/latest/) ([config](/packages/SublimeLinter))
+- [SublimeLinter](/packages/SublimeLinter)
 - [ApacheConf.tmLanguage](https://github.com/colinta/ApacheConf.tmLanguage)
 - [PlainTasks](https://github.com/aziz/PlainTasks)
 - [WakaTime](https://wakatime.com/help)
@@ -32,7 +32,7 @@
 
 ### Window Manipulation
 - [Origami](https://github.com/SublimeText/Origami)
-- [ZenTabs](https://github.com/travmik/ZenTabs) ([config](/packages/ZenTabs))
+- [Zen Tabs](/packages/ZenTabs)
 
 ## Git
 - [Gist](https://github.com/condemil/Gist)
@@ -40,7 +40,7 @@
 
 
 ## Markdown
-- [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) ([config](/packages/Markdown Preview))
+- [Markdown Preview](/packages/Markdown Preview)
 - [MarkdownEditing]()
 
 ## HTML
@@ -55,7 +55,7 @@
 - [ColorPicker]()
 
 ## JS
-- [Babel](https://github.com/babel/babel-sublime) ([config](/packages/Babel))
+- [Babel](/packages/Babel)
 - [jQuery]()
 
 ## PHP
