@@ -17,7 +17,7 @@
 - nginx
 
 ### File Management
-- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+- [SideBarEnhancements](/packages/SideBarEnhancements)
 - [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 - [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
