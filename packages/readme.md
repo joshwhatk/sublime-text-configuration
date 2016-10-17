@@ -11,6 +11,8 @@
 - [SublimeHighlight](https://github.com/n1k0/SublimeHighlight)
 - [BufferScroll](https://github.com/titoBouzout/BufferScroll)
 - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
+- Dockerfile Syntax Highlighting
+- nginx
 
 ### File Management
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
@@ -19,6 +21,8 @@
 - [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
 - [TrailingSpaces](/packages/TrailingSpaces)
 - [Trimmer](https://github.com/jonlabelle/Trimmer)
+- [Expand Tabs on Save](https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save)
+- [SFTP](https://packagecontrol.io/packages/SFTP)
 
 ### Text Manipulation
 - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
@@ -64,3 +68,6 @@
 - [CodeComplice]()
 - [DocBlockr]()
 - [Laravel Blade Highlighter]()
+
+## Just for Fun
+- Colorsublime
