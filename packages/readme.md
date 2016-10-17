@@ -45,29 +45,29 @@
 
 ## Markdown
 - [Markdown Preview](/packages/Markdown Preview)
-- [MarkdownEditing]()
+- MarkdownEditing
 
 ## HTML
-- [Tag]()
-- [Emmet]()
-- [Front End Snippets]()
+- Tag
+- Emmet
+- Front End Snippets
 
 ## CSS/SASS/LESS
-- [Syntax Highlighting for Sass]()
-- [LESS]()
-- [Color Highlighter]()
-- [ColorPicker]()
+- Syntax Highlighting for Sass
+- LESS
+- Color Highlighter
+- ColorPicker
 
 ## JS
 - [Babel](/packages/Babel)
-- [jQuery]()
+- jQuery
 
 ## PHP
 - [PHP Companion](/packages/PHP Companion)
-- [All Autocomplete]()
-- [CodeComplice]()
-- [DocBlockr]()
-- [Laravel Blade Highlighter]()
+- All Autocomplete
+- CodeComplice
+- DocBlockr
+- Laravel Blade Highlighter
 
 ## Just for Fun
 - Colorsublime
