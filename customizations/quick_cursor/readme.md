@@ -1,3 +1,5 @@
+[Home](/) - [Customizations](/customizations) - [Packages](/packages) - [Themes](/themes)
+
 # Quick Cursor
 
 Thanks to Adam Wathan (@adamwathan) for this cool little customization.
