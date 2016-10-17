@@ -7,7 +7,7 @@
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer)
 - [SublimeLinter](/packages/SublimeLinter)
 - [ApacheConf.tmLanguage](https://github.com/colinta/ApacheConf.tmLanguage)
-- [PlainTasks](https://github.com/aziz/PlainTasks)
+- [PlainTasks](/packages/PlainTasks)
 - [WakaTime](https://wakatime.com/help)
 - [Http Requester](https://github.com/braindamageinc/SublimeHttpRequester)
 - [SublimeHighlight](https://github.com/n1k0/SublimeHighlight)
