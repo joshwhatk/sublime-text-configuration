@@ -9,10 +9,12 @@ The settings for SublimeLinter get built automatically, but for each linter that
 - Install `csslint` via `npm install -g csslint`.
 - Ensure that it is available in the default $PATH.
 
-### [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+### [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
 
-- Install `jshint` via `npm install -g jshint`.
-- Ensure that it is available in the default $PATH.
+- install `eslint` via `npm install -g eslint`
+- run `eslint --init` in your code folder or in your `~` folder.
+
+> **Note**: I have included a default [`.eslintrc`](/packages/SublimeLinter/.eslintrc) file which I keep in `~` so that I am not "required" to init eslint on every project, but I still can if it is necessary.
 
 ### [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php)
 
