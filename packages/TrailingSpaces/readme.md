@@ -1,5 +1,7 @@
 # TrailingSpaces Settings
 
+[Github](https://github.com/SublimeText/TrailingSpaces)
+
 **trailing_spaces.sublime-settings**:
 
 ```

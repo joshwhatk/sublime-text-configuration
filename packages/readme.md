@@ -17,7 +17,7 @@
 - [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 - [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
-- [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) ([config](/packages/TrailingSpaces))
+- [TrailingSpaces](/packages/TrailingSpaces)
 - [Trimmer](https://github.com/jonlabelle/Trimmer)
 
 ### Text Manipulation
