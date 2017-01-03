@@ -10,6 +10,9 @@ I like for my import statements to be sorted by length and for the default visib
 
 ```
 {
+  // Need the php binary to work
+  "allow_use_from_global_namespace" : true,
+
   // Sort the list of use statements by their line length
   "use_sort_length": true,
 
