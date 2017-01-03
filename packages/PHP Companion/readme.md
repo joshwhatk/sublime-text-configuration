@@ -6,10 +6,15 @@
 
 I like for my import statements to be sorted by length and for the default visibility of automatically created properties to be protected.
 
-**PHPCompanion.sublime-settings**:
+> **Note**: Jan 2, 2017 - On a fresh install, the `find_use` command was not working until I had set up the `PHP Companion.sublime-settings` file.
+
+**PHP Companion.sublime-settings**:
 
 ```
 {
+  // Need the php binary to work
+  "allow_use_from_global_namespace" : true,
+
   // Sort the list of use statements by their line length
   "use_sort_length": true,
 
