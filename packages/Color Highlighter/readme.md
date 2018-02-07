@@ -4,12 +4,32 @@
 
 [Github](https://github.com/Monnoroch/ColorHighlighter)
 
-I'm not exactly sure if this is necessary, but this will ensure that the colors show as a filled box around the text.
+This will ensure that the colors show as a filled box around the text.
 
 **ColorHighlighter.sublime-settings**:
 
 ```
 {
-  "ha_style": "filled"
+  "search_colors_in": {
+    "all_content": {
+      "enabled": true,
+      "color_highlighters": {
+        "color_scheme": {
+          "enabled": true,
+          "highlight_style": "filled"
+        },
+        "gutter_icons": {
+          "enabled": true,
+          "icon_style": "circle"
+        },
+        "phantoms": {
+          "enabled": false,
+          "style": "right",
+          "length": 2
+        }
+      }
+    }
+  }
 }
+
 ```
